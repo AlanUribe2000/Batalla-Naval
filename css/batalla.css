@@ -1,0 +1,44 @@
+.fondo{
+    background-image: radial-gradient( circle farthest-corner at 12.3% 19.3%,  rgba(85,88,218,1) 0%, rgba(95,209,249,1) 100.2% );
+}
+body{
+    color: black;
+}
+header{
+    text-align: center;
+    font-size: 4rem;
+}
+td, tr, th{
+    height: 25px;
+    width: 25px;
+}
+.tabla{
+    border: black solid 1px;
+    text-align: center;
+}
+.cursor{
+    cursor: pointer;
+}
+input{
+    width: 10%;
+}
+.tablero{
+    width: 100%;
+    text-align: center;
+}
+.nombre{
+    width: 150px;
+}
+.opciones{
+    width: 100px;
+}
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+.turno{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
